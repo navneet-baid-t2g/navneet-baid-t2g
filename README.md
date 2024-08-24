@@ -18,6 +18,7 @@ Hi! I'm Navneet Baid, a passionate web designer and developer. I am currently wo
 - **Back-end:** Node.js, Express.js, Django
 - **Mobile Development:** Android (Java, Kotlin)
 - **CMS:** WordPress, Shopify
+- **Headless CMS:** Strapi
 
 ### Databases
 - **SQL:** MySQL
