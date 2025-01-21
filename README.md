@@ -1,12 +1,12 @@
 # Navneet Baid
 
-**Web Designer Intern at Tech2Globe Web Solutions**
+**Full Stack Developer at Tech2Globe Web Solutions**
 
 ---
 
 ## About Me
 
-Hi! I'm Navneet Baid, a passionate web designer and developer. I am currently working as a web designer intern at Tech2Globe Web Solutions. I have completed my Bachelor's in Computer Applications from JIMS College, affiliated with GGSIPU. I have a strong background in back-end programming and am currently enhancing my skills in front-end designing.
+Hi! I'm Navneet Baid, a dedicated full stack developer with a passion for creating dynamic and responsive web applications. I am currently working at Tech2Globe Web Solutions, where I utilize my skills in both front-end and back-end development to deliver high-quality solutions. I have a strong educational background with a Bachelor's in Computer Applications from JIMS College, affiliated with GGSIPU.
 
 ---
 
@@ -28,6 +28,11 @@ Hi! I'm Navneet Baid, a passionate web designer and developer. I am currently wo
 - **Design:** Figma, Photoshop
 - **API Development:** Flask, Express
 
+### DevOps and Cloud Services
+- **Version Control:** Git, GitHub
+- **CI/CD:** GitHub Actions
+- **Cloud Platforms:** AWS, Firebase
+
 ---
 
 ## Certifications and Achievements
@@ -36,7 +41,6 @@ Hi! I'm Navneet Baid, a passionate web designer and developer. I am currently wo
 - Member of the organizing team for a hackathon conducted by Geekroom as a Web Developer
 
 ---
-
 
 ## Education
 
